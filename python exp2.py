@@ -13,3 +13,4 @@ for i in range(0,len2):
 if(str2==str3):
     print("yes")
 else:
+    print("no")
